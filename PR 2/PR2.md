@@ -26,7 +26,7 @@ This project demonstrates practical Excel skills commonly used in data analytics
 
 
 ```md
-![Sales Dashboard]PR2_Dashboard.png
+PR2_Dashboard.png
 
 ```
 
