@@ -25,11 +25,6 @@ This project demonstrates practical Excel skills commonly used in data analytics
 ## 📸 Dashboard Preview
 <img width="1016" height="697" alt="PR2_Dashboard" src="https://github.com/user-attachments/assets/e572f626-453d-4344-8222-4049b125787e" />
 
-
-```
-<img width="1016" height="697" alt="PR2_Dashboard" src="https://github.com/user-attachments/assets/c4845ae4-a253-4538-88d3-0d412626bc16" />
-
-
 ```
 
 ---
