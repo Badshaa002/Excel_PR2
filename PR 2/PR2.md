@@ -24,10 +24,10 @@ This project demonstrates practical Excel skills commonly used in data analytics
 
 ## 📸 Dashboard Preview
 
+> Save your dashboard screenshot as `dashboard.png` inside the repository and uncomment the line below.
 
-
-``
-![Sales Dashboard](PR2_Dashboard.png)
+```md
+![Sales Dashboard](dashboard.png)
 ```
 
 ---
